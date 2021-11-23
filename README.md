@@ -1,13 +1,13 @@
 # Sew-Queen
 <div align="center">
-<h1>🍁  ❤ Whatsapp Bot By Ravindu Manoj ❤  🍁</h1>
+<h1>🍁  ❤ Whatsapp Bot By  isuwabrooo  ❤  🍁</h1>
 </div>
 <div align="center">
 <img src="https://github.com/Sew01RaviduManoj01KingAndQueen/imagehosting/blob/00aa7f2685f0114a2111f57149d8f0a27b2481c9/VID-20210724-WA0003.gif" />
   </div>
 
 
-## 🇱🇰 RAVINDU MANOJ 🇱🇰  
+## 🇱🇰  isuwabrooo  🇱🇰  
 ### SEW BOT FOR YOUR HELP😇
 
 - [isuwabrooo](https://github.com/isuwabrooo)
@@ -17,7 +17,7 @@
 
 <div align="center">
   <img src="https://github.com/isuwabrooo/imagehosting/blob/e18b9131ed1b5ec87d58359781c2a9c1044df810/temp_user_profile1621662133773.jpeg" width="250" height="250">
-  <h1>🍁  Whatsapp Bot By Ravindu Manoj  🍁</h1>
+  <h1>🍁  Whatsapp Bot By  isuwabrooo   🍁</h1>
   <h1>🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰</h1>
 </div>
 <p align="center">
@@ -34,7 +34,7 @@
 
 ##
 
-### ⚒️ Setup Wiki - Kurulum [Full Guide - By Ravindu Manoj]
+### ⚒️ Setup Wiki - Kurulum [Full Guide - By  isuwabrooo ]
 [![Setup - Raviya](https://github.com/isuwabrooo/imagehosting/blob/7d17c40df5099525556eb014b20a13eca4ac1176/20210628_090852.png?size=75 )](https://github.com/isuwabrooo/RaviyaBot/wiki)
 
 ##
@@ -49,7 +49,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 
 ##🇱🇰 Developer 🍁
 
-[![RAVINDU MANOJ](https://github.com/isuwabrooo/imagehosting/blob/e18b9131ed1b5ec87d58359781c2a9c1044df810/temp_user_profile1621662133773.jpeg" width="100" height="100")](https://www.fusuf.codes)
+[![ isuwabrooo ](https://github.com/isuwabrooo/imagehosting/blob/e18b9131ed1b5ec87d58359781c2a9c1044df810/temp_user_profile1621662133773.jpeg" width="100" height="100")](https://www.fusuf.codes)
 
 ## Thanks To
 - [@adiwajshing](https://github.com/adiwajshing) for coded [Baileys](https://github.com/adiwajshing/Baileys) 
@@ -62,6 +62,6 @@ This project is protected by `GNU General Public Licence v3.0` license.
 
 <div align="center">
   <img src="https://github.com/isuwabrooo/imagehosting/blob/7d17c40df5099525556eb014b20a13eca4ac1176/IMG_20210628_090553.jpg" width="250" height="250">
-  <h1>🍁  Whatsapp Bot By Ravindu Manoj  🍁</h1>
+  <h1>🍁  Whatsapp Bot By  isuwabrooo   🍁</h1>
   <h1>🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰</h1>
 </div>
