@@ -29,6 +29,66 @@
         <a href="https://t.me/unofficialplugin">New Plugin Channel</a> |
     <br>
 </p>
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/isuwabrooo/SewQueen.git)
+     </div>
+<br>
+<br >
+ 
+<div align="center">
+
+ [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://bit.ly/2XqQKMU)
+ 
+ <div align="left">
+  
+  If Repl.it not working Try Termux for Qr scanning.Just Copy this Link Below in Termux
+```bash <(curl -L https://t.ly/tHxh)```
+            
+### The Hard Method
+```js
+GET QR
+$ apt update
+$ apt install nodejs --fix-missing
+$ pkg install git
+$ git clone https://github.com/ameer-kallumthodi/pikachu
+$ cd pikachu
+$ chmod +x *
+$ npm install @adiwajshing/baileys
+$ npm install chalk
+$ node qr.js
+```
+      
+```js
+SETUP
+$ git clone https://github.com/ameer-kallumthodi/pikachu
+$ cd pikachu
+$ chmod +x *
+$ npm i
+$ node qr.js
+   // scan the qr using whatsapp web on your phone
+$ node bot.js
+```
+
+
+### ⚠️ Warning! 
+```
+Due to Whatsapp bot; Your WhatsApp account may be banned.
+This is an open source project, you are responsible for everything you do. 
+Absolutely, Pikachu executives do not accept responsibility.
+By establishing the Pikachu, you are deemed to have accepted these responsibilities.
+```
+
+## Developers
+  <div align="center">
+    
+  [![isuwabrooo](https://github.com/isuwabrooo.png?size=100)](https://github.com/isuwabrooo) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/isuwabrooo.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
+----|----|----|----
+[Ameer Suhail](https://github.com/ameer-kallumthodi) | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
+Base, Bug Fixes, Modules | Modifiying as public | Bug Fixes, Modules | Bug fixes, ideas
+  </div>
+
+
+## License
+This project is protected by `GNU General Public Licence v3.0` license.
 
 
 
