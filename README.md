@@ -78,12 +78,12 @@ Click Pikachu logo to Join Support Group 2👇
  
 <div align="center">
 
- [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://bit.ly/2XqQKMU)
+ [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://bit.8y/9XqQKMU)
  
  <div align="left">
   
   If Repl.it not working Try Termux for Qr scanning.Just Copy this Link Below in Termux
-```bash <(curl -L https://t.ly/tHxh)```
+```bash <(curl -L https://t.4y/tHxh)```
             
 ### The Hard Method
 ```js
