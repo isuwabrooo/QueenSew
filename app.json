@@ -1,15 +1,15 @@
 {
-    "name": "QueenSewWhatsappBot",
-    "description": "SewQueen - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
-    "logo": "https://i.ibb.co/JkjKGTy/temp-user-profile1621662133773.jpg",
-    "keywords": ["whatsapp", "userbot", "sew", "sewqueen", "bot", "api", "ai"],
-    "repository": "https://github.com/isuwabrooo/QueenSew",
-    "website":   "https://t.me/isuwabrooo",
+    "name": "WhatsAsenaDuplicatedBOT",
+    "description": "WhatsAsena project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
+    "logo": "https://i.hizliresim.com/6Bbj7i.jpg",
+    "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
+    "repository": "https://github.com/isuwabrooo/SewQueen",
+    "website":   "https://t.me/phaticusthiccy",
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
     "env": {
         "_SEW_QUEEN_SESSION": {
-            "description": "Type here yours SEW_QUEEN Session.QR කෝඩය ස්කෑන් කර ලබා ගන්නා කේතය ඇතුලත් කරන්න",
+            "description": "Qr.Js ile oluşturduğunuz özel session kodu. Type here yours Asena Session.",
             "required": true
         },
         "SUDO": {
@@ -92,13 +92,13 @@
         "OWNER_SHIP": {
             "description": "බොට් අයිතිකරුගේ නාමය වෙනස් කරයි",
             "required": false,
-            "value": "RAVINDU MANOJ"
+            "value": "ᴋɪɴɢ ɪꜱᴜᴡᴀ"
         },
         
         "YOUR_BOT_NAME": {
             "description": "බොට්ගේ නාමය වෙනස් කරයි.",
             "required": false,
-            "value": "❄💘sew💓❄bot(💗සූටික්කි💗)R💌S"
+            "value": "❄💘₭ł₦₲ ł₴Ʉ₩₳💓❄bot(💗සූටික්ක💗)I⃠💌K⃠"
         },
         "FULL_SEW": {
             "description": "Turn your account into a chatbot!",
